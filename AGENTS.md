@@ -10,7 +10,7 @@
 
 - 直接在本仓库的 main 分支上开发。每完成一个功能提交一次，并推送到 GitHub。
 - 不要修改 PROMPT.md 和 AGENTS.md。
-- 原始数据（下载的 CSV 等）和生成的数据文件不要提交，按 PROMPT.md 的要求加入 .gitignore。
+- 原始数据（下载的星表文件等）和生成的数据文件不要提交，按 PROMPT.md 的要求加入 .gitignore。
 
 ## 不要参考其他 AI 的成果
 
